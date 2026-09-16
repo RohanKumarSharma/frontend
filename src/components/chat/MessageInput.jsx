@@ -390,7 +390,7 @@ export default function MessageInput({
         </button>
       </div>
 
-      <p>Press Enter to send</p>
+      {/* <p>Press Enter to send</p> */}
     </div>
   );
 }
